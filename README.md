@@ -1,6 +1,6 @@
 # alphabet
 
-<https://i574n.github.io/alphabet>
+<https://fc1943s.github.io/alphabet>
 
 [![깃허브 코드스페이스](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=919742788)
 
@@ -39,7 +39,7 @@
 Clone the repository:
 
 ```powershell
-git clone https://github.com/i574n/alphabet.git
+git clone https://github.com/fc1943s/alphabet.git
 ```
 
 Navigate to the directory, initialize dependencies and build the project:
@@ -82,7 +82,7 @@ Documentation
 <td>
 
 - Repository file tree (HTML)  
-<https://i574n.github.io/alphabet>
+<https://fc1943s.github.io/alphabet>
 
 </td>
 </tr>
@@ -96,7 +96,7 @@ Documents Sample
 <td>
 
 - Documents notebook  
-<https://i574n.github.io/alphabet/apps/documents/documents.dib.html>
+<https://fc1943s.github.io/alphabet/apps/documents/documents.dib.html>
 
 </td>
 </tr>
@@ -105,10 +105,10 @@ Documents Sample
 
 ## Contributing
 
-Contributions are welcome! Please see the [CONTRIBUTING.md](https://github.com/i574n/.github/blob/main/CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see the [CONTRIBUTING.md](https://github.com/fc1943s/.github/blob/main/CONTRIBUTING.md) for guidelines.
 
 ## License
 
-This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/i574n/alphabet/blob/main/LICENSE) file for details.
+This project is licensed under the AGPLv3 License. See the [LICENSE](https://github.com/fc1943s/alphabet/blob/main/LICENSE) file for details.
 
 Built with ❤️ for linguists, developers, and anyone passionate about languages.
